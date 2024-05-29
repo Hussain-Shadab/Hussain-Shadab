@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hussain-Shadab
-- 👀 I’m interested in Flutter 
-- 🌱 I’m currently learning about dart oop and data structure 
+- 👀 I’m interested in Flutter , React-Native
+- 🌱 I’m currently learning about React-Native 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
